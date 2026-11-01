@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@call-e/calle": "0.6.0",
-    "better-auth": "1.6.25",
+    "better-auth": "1.7.7",
     "drizzle-orm": "0.45.2",
     "next": "16.2.12",
     "nodemailer": "9.0.3",
